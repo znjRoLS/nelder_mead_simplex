@@ -1,5 +1,5 @@
 cmake_minimum_required (VERSION 2.6)
-project (cpp_template)
+project (nelder_mead_simplex)
 
 IF (WIN32)
     set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -std=gnu++17")

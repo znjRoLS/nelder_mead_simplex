@@ -1,0 +1,6 @@
+[submodule "googletest"]
+	path = googletest
+	url = https://github.com/google/googletest.git
+[submodule "gnuplot-iostream"]
+	path = gnuplot-iostream
+	url = https://github.com/dstahlke/gnuplot-iostream.git

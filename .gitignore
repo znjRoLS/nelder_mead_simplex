@@ -1,0 +1,23 @@
+# Created by .ignore support plugin (hsz.mobi)
+### CMake template
+CMakeCache.txt
+CMakeFiles
+CMakeScripts
+Testing
+Makefile
+cmake_install.cmake
+install_manifest.txt
+compile_commands.json
+CTestTestfile.cmake
+
+# Clion idea
+.idea
+cmake-build-debug
+
+# doxygen cmake
+CMakeDoxygenDefaults.cmake
+CMakeDoxyfile.in
+docs
+# build files
+bin/
+lib/
